@@ -1,0 +1,5 @@
+this is a file about how to use Git and github
+
+first we initalize a local repo
+mkae a github repo
+connect 1 and 2
